@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dejavu"
+name = "sudonum_dejavu"
 version = "0.1.0"
 description = ""
 authors = ["Caswall Engelsman <mail@cengelsman.com>"]
